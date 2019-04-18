@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ThorActivity"></activity>
+        <activity android:name=".FerroActivity"></activity>
+        <activity android:name=".ProfessorActivity" />
+        <activity android:name=".MagnetoActivity" />
+        <activity android:name=".AranhaActivity" />
+        <activity android:name=".ThorActivity" />
         <activity android:name=".LukeActivity" />
         <activity android:name=".LoganActivity" />
         <activity android:name=".GrootActivity" />
@@ -22,8 +26,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
-        </activity>
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>

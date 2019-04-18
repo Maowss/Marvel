@@ -20,10 +20,10 @@ public class MarvelActivity extends AppCompatActivity {
                 startActivity(capitao);
                 break;
 
-//            case R.id.idAranha:
-//                Intent aranha = new Intent(MarvelActivity.this, AranhaActivity.class);
-//                startActivity(aranha);
-//                break;
+            case R.id.idAranha:
+                Intent aranha = new Intent(MarvelActivity.this, AranhaActivity.class);
+                startActivity(aranha);
+                break;
 
 
             case R.id.idDaredevil:
@@ -31,12 +31,10 @@ public class MarvelActivity extends AppCompatActivity {
                 startActivity(daredevil);
                 break;
 
-
-//            case R.id.idFerro:
-//                Intent ferro = new Intent(MarvelActivity.this, FerroActivity.class);
-//                startActivity(ferro);
-//                break;
-
+            case R.id.idFerro:
+                Intent ferro = new Intent(MarvelActivity.this, FerroActivity.class);
+                startActivity(ferro);
+                break;
 
             case R.id.idGroot:
                 Intent groot = new Intent(MarvelActivity.this, GrootActivity.class);
@@ -50,19 +48,24 @@ public class MarvelActivity extends AppCompatActivity {
                 break;
 
 
-//            case R.id.idMagneto:
-//                Intent magneto = new Intent(MarvelActivity.this, MagnetoActivity.class);
-//                startActivity(magneto);
-//                break;
-//
-//            case R.id.idProfessor:
-//                Intent professor = new Intent(MarvelActivity.this, ProfessorActivity.class);
-//                startActivity(professor);
-//                break;
+            case R.id.idMagneto:
+                Intent magneto = new Intent(MarvelActivity.this, MagnetoActivity.class);
+                startActivity(magneto);
+                break;
+
+            case R.id.idProfessor:
+                Intent professor = new Intent(MarvelActivity.this, ProfessorActivity.class);
+                startActivity(professor);
+                break;
 
             case R.id.idThor:
                 Intent thor = new Intent(MarvelActivity.this, ThorActivity.class);
                 startActivity(thor);
+                break;
+
+            case R.id.idLukecage:
+                Intent luke = new Intent(MarvelActivity.this, LukeActivity.class);
+                startActivity(luke);
                 break;
         }
 

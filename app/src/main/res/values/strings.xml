@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">Marvel</string>
-    <string name="capitao">ASPODKASPDOADSAHDAUISHDAIUSHDAIUSDHAIUSDHAUISHDIAUSHDUIASHDAIUSDHAUSKSODKASDO</string>
+    <string name="groot">Groot é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics.</string>
+    <string name="aranha">O Homem-Aranha é na verdade Peter Parker, um super-herói. Ele lança teia.
+        Para adquirir os poderes de um aracnídeo ele foi picado por uma aranha radioativa</string>
+    <string name="ferro">Homem de Ferro é um personagem fictício dos quadrinhos publicados pela Marvel Comics. Sua identidade verdadeira é a do
+        empresário e bilionário Tony Stark, que usa armaduras de alta tecnologia no combate ao crime.</string>
+    <string name="daredevil">Demolidor é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics. Foi criado pelo escritor/editor
+        Stan Lee e pelo artista Bill Everett, com algumas contribuições não especificadas por Jack Kirby. O</string>
+    <string name="logan">Wolverine é mutante que possui sentidos afiados, capacidades físicas aprimoradas, habilidade regenerativa,
+        fator de cura e três garras retratáveis Wolverine é um membro do X-Men, Tropa Alfa e Vingadores.</string>
+    <string name="luke">Groot é um personagem fictício que aparece nas histórias em quadrinhos publicadas pela Marvel Comics.</string>
+    <string name="professor">Charles Francis Xavier, conhecido como Professor X, é um personagem de quadrinhos da série X-Men. Mutante,
+        Xavier foi considerado um dos mais poderosos psíquicos do universo Marvel, tendo perdido seus poderes recentemente.</string>
+    <string name="thor">Thor é o deus nórdico, dos trovões e das batalhas. É filho do deus Odin. Thor usa como arma o martelo Mjolnir.</string>
+    <string name="ima">Magneto é um personagem fictício do Universo Marvel criado e publicado pela editora Marvel Comics, sendo considerado um dos principais vilões
+        dos X-Men. Magneto é um mutante com enormes poderes de manipulação de campos magnéticos</string>
+    <string name="capitao">Capitão América é um super-herói de histórias em quadrinhos americanos publicado pela Marvel Comics.
+        Capitão América foi concebido como um super-herói patriótico que lutou contra as potências do Eixo na Segunda Guerra Mundial</string>
 </resources>
